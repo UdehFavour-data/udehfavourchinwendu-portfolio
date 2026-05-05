@@ -8,7 +8,7 @@ I'm a data analyst with abackground in Veterinary Medecine now building impactfu
 - PowerBi
 
 ## My Projects
-- [Travel Analysis Dashboard](.....)
+- [Travel Analysis Dashboard](https://github.com/UdehFavour-data/Travel-analysis)
  
 ## Currently learning
 - Advanced SQL
