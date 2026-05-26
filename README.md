@@ -9,6 +9,7 @@ I'm a data analyst with abackground in Veterinary Medecine now building impactfu
 
 ## My Projects
 - [Travel Analysis Dashboard](https://github.com/UdehFavour-data/Travel-analysis)
+- [HR Workfoce Performance and Engagement Analytics Dashboard](https://github.com/UdehFavour-data/HR-Workforce-Performance-and-Engagement-Analytics)
  
 ## Currently learning
 - Advanced SQL
